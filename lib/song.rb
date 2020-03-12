@@ -17,6 +17,7 @@ def self.count
   @@count 
 end 
 def artist 
-  
+  if @artist.has_key?(artist)
+    @artist[]
 
   end
