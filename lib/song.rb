@@ -31,9 +31,9 @@ def self.genre_count
   else 
     genre_count = 1 
   end 
+  genre_count
 end
 
-end 
-genre_count
+end
 end 
   
