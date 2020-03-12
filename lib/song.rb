@@ -16,8 +16,8 @@ end
 def self.count 
   @@count 
 end 
-def artist 
-  
-    @artist[]
+def self.genres
+  @@genres.uniq 
+end
 
   end
