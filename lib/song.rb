@@ -22,5 +22,6 @@ end
 def self.artists 
   @@artists.uniq 
 end
+def 
 
   end
